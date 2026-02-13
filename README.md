@@ -32,7 +32,7 @@ projects that solve **real-world problems**.
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-yadav-ab206124a/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ashish7802)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
