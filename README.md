@@ -1,41 +1,66 @@
-# 👋 Hi there, I'm Ashish Yadav
+<div align="center">
 
-🚀 Python Developer | Automation Engineer | WordPress  
-💡 I build automation tools, scraping systems & web solutions  
-📍 India | 🌍 Open to Remote & Freelance
+# 👋 Hi, I'm Ashish Yadav  
+### 🚀 Python Developer | Automation Engineer | WordPress
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=Automation+%7C+Web+Scraping;Selenium+%7C+Playwright+%7C+APIs;Building+Smart+Tools+Everyday" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
-I'm a passionate **Python Developer** with hands-on experience in  
-**browser automation, web scraping, and WordPress development**.
+💡 I’m a **Python Developer** who loves turning boring, repetitive work  
+into **smart automation tools**.
 
-I love turning repetitive tasks into **smart automation** and building  
-projects that solve **real-world problems**.
+⚙️ I work mainly with **browser automation, web scraping**,  
+and build **real-world WordPress solutions** for clients.
+
+🎯 My goal: **clean code, practical projects, real impact**.
 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)
-![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,js,wordpress,html,css,git" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-🔹 **Animated Portfolio Website**  
-🔹 **Chrome Automation Scripts**  
-🔹 **Web Scraping Bots**
+✨ **Animated Portfolio Website**  
+🤖 **Chrome & Browser Automation Scripts**  
+🌐 **Web Scraping Bots (Data Extraction)**  
+
+➡️ *Check pinned repositories below 👇*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish7802&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish7802&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://www.freepik.com/free-photos-vectors/linkedin-logo)](https://www.linkedin.com/in/ashish-yadav-ab206124a/)
-[![GitHub](https://www.freepik.com/free-photos-vectors/github-logo)](https://github.com/ashish7802)
-[![Email](https://freepngimg.com/png/64774-computer-gmail-email-icons-png-image-high-quality)](ashishyadav4818@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⚡ *"Automate the boring. Build the smart."*
+<div align="center">
+
+✨ *“Automate the boring. Build the smart.”* ✨  
+
+</div>
