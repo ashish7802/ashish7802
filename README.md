@@ -14,7 +14,7 @@
 into **smart automation tools**.
 
 ⚙️ I work mainly with **browser automation, web scraping**,  
-and build **real-world WordPress solutions** for clients.
+and build **real-world WordPress solutions**.
 
 🎯 My goal: **clean code, practical projects, real impact**.
 
@@ -49,11 +49,14 @@ and build **real-world WordPress solutions** for clients.
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/ashish-yadav-ab206124a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ashishyadav4818@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.facebook.com/robbert.jessy/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
 </p>
 
