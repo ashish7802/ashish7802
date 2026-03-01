@@ -22,7 +22,7 @@ and build **real-world WordPress solutions**.
 
 ## 🛠️ Tech Stack
 <p align="center">
-  (<img src="https://skillicons.dev/icons?i=python"/>) (https://github.com/ashish7802/email-artisan)
+<img src="https://skillicons.dev/icons?i=python")(https://github.com/ashish7802/email-artisan)/>
   <img src="https://skillicons.dev/icons?i=selenium,js,wordpress,html,css,git" />
 </p>
 
