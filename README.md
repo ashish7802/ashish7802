@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20Freelance&descAlignY=57&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ashish+Yadav+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Builder;Next.js+%7C+Node.js+%7C+Python+%7C+MongoDB;I+build+real+products+for+real+clients;Open+to+Freelance+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ashish+Yadav+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Builder;Python+%7C+FastAPI+%7C+React+%7C+MongoDB;I+build+real+products+for+real+clients;Open+to+Freelance+%F0%9F%9F%A2" alt="Typing SVG" />
 
 <br/>
 
