@@ -77,7 +77,7 @@ ashish = {
 | 🦷 | **[SmileCare Dental](https://github.com/ashish7802/indian-freelance-web-templates)** | Full stack dental clinic website — appointment booking, admin dashboard, email confirmation | Node.js, MongoDB, Nodemailer | ✅ Live |
 | 💰 | **[Finance Tracker AI](https://github.com/ashish7802/finance-tracker-ai)** | Personal finance tracker with AI-powered advice and insights | Python, FastAPI, Claude AI | ✅ Active |
 | 🔥 | **[Roast My Code](https://github.com/ashish7802/roast-my-code)** | AI code reviewer that roasts your bad code with helpful suggestions | React, Python, AI | ✅ Active |
-| 🔐 | **[SnapVault](https://github.com/ashish7802/SnapVault)** | Secure full stack developer tool with vault features | Python, FastAPI | ✅ Active |
+| 🔐 | **[SnipVault](https://github.com/ashish7802/SnipVault)** | Secure full stack developer tool — save, search and reuse your best code snippets | Python, FastAPI, React | ✅ Active |
 | 🤝 | **[AssistConnect](https://github.com/ashish7802/AssistConnect)** | AI-powered smart assistant platform with real-time features | Python, FastAPI, WebRTC | ✅ Active |
 
 ---
@@ -91,7 +91,7 @@ ashish = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish7802&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=BF5FFF&fire=FF6B9D&currStreakLabel=00D9FF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=ashish7802&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=BF5FFF&fire=FF6B9D&currStreakLabel=00D9FF" width="70%"/>
 
 <br/>
 
@@ -105,7 +105,7 @@ ashish = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashish7802&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashish7802&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
@@ -115,10 +115,14 @@ ashish = {
 
 <div align="center">
 
+<p>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrome-dreamer-works.lovable.app)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishyadav4818@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-yadav-ab206124a)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/up_wala_yadav_315)
+
+</p>
 
 <br/>
 
