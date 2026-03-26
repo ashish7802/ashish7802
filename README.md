@@ -22,7 +22,8 @@ ashish = {
     "location"   : "Lucknow, UP, India 🇮🇳",
     "role"       : ["Full Stack Developer", "AI Builder", "Freelancer"],
     "currently"  : "Building AI-powered full stack products",
-    "portfolio"  : "chrome-dreamer-works.lovable.app",
+    "portfolio"  : "ashyadav.netlify.app
+",
     "email"      : "ashishyadav4818@gmail.com",
     "open_to"    : "Freelance & Remote Work 🌍",
     "motto"      : "Don't just learn. Build. Ship. Repeat. 🚀"
