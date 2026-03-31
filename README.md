@@ -22,7 +22,7 @@ ashish = {
     "location"   : "Lucknow, UP, India 🇮🇳",
     "role"       : ["Full Stack Developer", "AI Builder", "Freelancer"],
     "currently"  : "Building AI-powered full stack products",
-    "portfolio"  : "ashyadav.netlify.app
+    "portfolio"  : "ashyada.netlify.app
 ",
     "email"      : "ashishyadav4818@gmail.com",
     "open_to"    : "Freelance & Remote Work 🌍",
@@ -118,7 +118,7 @@ ashish = {
 
 <p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashyadav.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashyada.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishyadav4818@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-yadav-ab206124a)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ashyadav/)
