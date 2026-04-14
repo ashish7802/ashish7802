@@ -33,7 +33,7 @@ Exploring different approaches to make outputs more reliable and useful in real-
 
 **DevPulse AI**  
 Analyzes GitHub profiles to generate insights and actionable suggestions  
-🔗 Live: https://devpulse-ai-r0d4.onrender.com  
+🔗 Live: https://devpulseai.up.railway.app/  
 
 ---
 
