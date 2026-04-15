@@ -24,7 +24,7 @@ I build things on the web — mostly focused on making them simple and actually 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://instagram.com/_ashyadav" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 
