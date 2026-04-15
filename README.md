@@ -35,8 +35,8 @@ I build things on the web — mostly focused on making them simple and actually 
 <h3 align="center">Projects</h3>
 
 **QuantumX**  
-An AI-based system focused on improving the quality and consistency of responses.  
-Exploring different approaches to make outputs more reliable and useful in real-world use cases.  
+An AI-based system focused on improving the quality, consistency, and depth of responses through quantum-level searching—an approach that evaluates multiple possibilities in parallel to find the most accurate outcome.  
+Exploring different strategies to validate, compare, and refine outputs, making them more reliable and useful in real-world use cases. 
 
 **DevPulse AI**  
 Analyzes GitHub profiles to generate insights and actionable suggestions  
