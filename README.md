@@ -46,5 +46,5 @@ Analyzes GitHub profiles to generate insights and actionable suggestions
 
 <h3 align="center">✨ Build. Break. Improve. ✨</h3>
 <p align="center">
-<em>Learning as I go, one project at a time.</em>
+<em>Ideas are easy. Execution is everything.</em>
 </p>
