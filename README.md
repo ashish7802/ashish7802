@@ -15,12 +15,19 @@ I build things on the web — mostly focused on making them simple and actually 
 
 <h3 align="center">Connect</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-yadav-ab206124a/" target="blank">
+
+<a href="https://www.linkedin.com/in/ashish-yadav-ab206124a/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
 <a href="mailto:ashishyadav4818@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
 </a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
 </p>
 
 ---
