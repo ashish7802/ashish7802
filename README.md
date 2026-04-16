@@ -40,7 +40,7 @@ Exploring different strategies to validate, compare, and refine outputs, making 
 
 **DevPulse AI**  
 Analyzes GitHub profiles to generate insights and actionable suggestions  
-🔗 Live: https://devpulseai.up.railway.app/  
+🔗 Live: https://devpulseai.up.railway.app
 
 ---
 
