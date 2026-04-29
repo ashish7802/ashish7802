@@ -1,3 +1,7 @@
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=ashish7802&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="25"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 
 <h3 align="center">
