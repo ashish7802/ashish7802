@@ -33,19 +33,6 @@ I build things on the web — mostly focused on making them simple and actually 
 </a>
 
 </p>
-
----
-
-<h3 align="center">Projects</h3>
-
-**QuantumX**  
-An AI-based system focused on improving the quality, consistency, and depth of responses through quantum-level searching—an approach that evaluates multiple possibilities in parallel to find the most accurate outcome.  
-Exploring different strategies to validate, compare, and refine outputs, making them more reliable and useful in real-world use cases. 
-
-**DevPulse AI**  
-Analyzes GitHub profiles to generate insights and actionable suggestions  
-🔗 Live: https://devpulseai.up.railway.app
-
 ---
 
 <h3 align="center">✨ Build. Break. Improve. ✨</h3>
