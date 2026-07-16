@@ -33,7 +33,6 @@ I build things on the web — mostly focused on making them simple and actually 
 </a>
 
 </p>
----
 
 <h3 align="center">✨ Build. Break. Improve. ✨</h3>
 <p align="center">
